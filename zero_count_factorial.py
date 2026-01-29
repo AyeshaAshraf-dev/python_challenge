@@ -29,7 +29,7 @@ def factorial(n):
         return n * factorial(n-1) 
 # Trailingzeros Psuodo code
 #  1. First i wiil define a box. 
-#  2. I will use the concept 5 n//5 the problem is hidden 5.
+#  2. i will use the concept of 5 n//5,  tThe problem is hidden 5.
 #  3. For that i have to use concept of multiples of 5 i.e 5,25,75 etc. 
 #  4. I would put my ans in that defined box.
 
