@@ -8,6 +8,7 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 - [x] **01: Shop Totalizer** - Handles running totals and item summaries using lists.
 - [x] **02: zero_count_factorial** - Helps in finding Factorial as well as Trailing Zeros using recursion and while loop. 
 - [x] **03: Currency Exchage**- Helps in converting currencies to PKR using Dictionary and Function.  
+- [x] **04: Water Reminder**- A water Reminder that reminds you to drink water  
 ---
 
 ##  How to Run
@@ -15,7 +16,10 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 2. Run any script using: 
    `shop_calculater.py`,
    `zero_count_factorial.py`,
-   `currency_exchange.py`
+   `currency_exchange.py`,
+   `water_reminder.py`
+3. To run the reminder silently in the background :
+   `pythonw water_reminder.py` (hope it helps)            
 
 ##  Lessons Learned
 - How to use `while True` loops with a `break` condition.
@@ -26,3 +30,4 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 - How to use `Functions`
 - How to connect `Dictionary` to the other code
 - `Logic Flow` still learning
+- Got to know about python library `plyer`
