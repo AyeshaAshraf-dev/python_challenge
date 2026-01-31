@@ -22,11 +22,14 @@ def convertion(amount, currency):
         sys.exit()
     else:
         thing = prices[user_curr] 
-        amount1 = user_amount*thing   
-        return amount1
-
-user_amount = int(input("Enter value: "))
+        amount = user_amount*thing   
+        return amount
+try:
+    user_amount = int(input("Enter value: "))
+except ValueError:
+        print("Only Integers!")
+        sys.exit()    
 print("Available currencies are ", prices.keys())
 user_curr  =  input("Enter currency: ").upper()
 final = convertion(user_amount,user_curr)
-print(f"The Converted Value is : {final}")
+print(f"The Converted Value is : {final:.2f}")
