@@ -32,4 +32,4 @@ except ValueError:
 print("Available currencies are ", prices.keys())
 user_curr  =  input("Enter currency: ").upper()
 final = convertion(user_amount,user_curr)
-print(f"The Converted Value is : {final:.2f}")
+print(f"The Converted Value is : {final:.3f}")
