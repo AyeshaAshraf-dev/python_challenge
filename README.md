@@ -9,6 +9,7 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 - [x] **02: zero_count_factorial** - Helps in finding Factorial as well as Trailing Zeros using recursion and while loop. 
 - [x] **03: Currency Exchage**- Helps in converting currencies to PKR using Dictionary and Function.  
 - [x] **04: Water Reminder**- A water Reminder that reminds you to drink water  
+- [x] **05: Password Generator**- It will help you to generate random passwords!
 ---
 
 ##  How to Run
@@ -17,7 +18,8 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
    `shop_calculater.py`,
    `zero_count_factorial.py`,
    `currency_exchange.py`,
-   `water_reminder.py`
+   `water_reminder.py`,
+   `password_generator.py`
 3. To run the reminder silently in the background :
    `pythonw water_reminder.py` (hope it helps)            
 
@@ -31,3 +33,6 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 - How to connect `Dictionary` to the other code
 - `Logic Flow` still learning
 - Got to know about python library `plyer`
+- Got to know about python library `string`
+- Got to know about python library `random`
+
