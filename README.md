@@ -10,6 +10,7 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 - [x] **03: Currency Exchage**- Helps in converting currencies to PKR using Dictionary and Function.  
 - [x] **04: Water Reminder**- A water Reminder that reminds you to drink water  
 - [x] **05: Password Generator**- It will help you to generate random passwords!
+- [x] **06: sum_product_function**- It will ask numbers and give you sum,product on the base of condition!
 ---
 
 ##  How to Run
@@ -21,7 +22,8 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
    `water_reminder.py`,
    `password_generator.py`
 3. To run the reminder silently in the background :
-   `pythonw water_reminder.py` (hope it helps)            
+   `pythonw water_reminder.py` (hope it helps)      
+   `sum_product_function.py`      
 
 ##  Lessons Learned
 - How to use `while True` loops with a `break` condition.
@@ -35,4 +37,5 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 - Got to know about python library `plyer`
 - Got to know about python library `string`
 - Got to know about python library `random`
+- how to handle `input` with functions
 
