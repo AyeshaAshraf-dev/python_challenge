@@ -11,7 +11,7 @@ This repository is my personal "logic gym." My goal is to write 50 Python progra
 - [x] **04: Water Reminder**- A water Reminder that reminds you to drink water  
 - [x] **05: Password Generator**- It will help you to generate random passwords!
 - [x] **06: sum_product_function**- It will ask numbers and give you sum,product on the base of condition!
-- {x} **07: bill_splitter**-  It will split the expenses between your Roomates 
+- [x] **07: bill_splitter**-  It will split the expenses between your Roomates 
 - [x] **08: salary_tracker**- A salary_tracker using OOP 
 
 ---
