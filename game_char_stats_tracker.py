@@ -1,5 +1,5 @@
 class GameCharacter:
-    def __init__(self,name):
+    def __init__(self,name,level,health,mana):
         self._name = name
         self._health = 100
         self._mana = 50
@@ -39,4 +39,20 @@ class GameCharacter:
         return self._level
 
     def level_up(self):
-        return self._level
+        self._level += 1
+        self.health = 100
+        self.mana = 50
+        print(f"{self._name} leveled up to {self._level}!")
+    def __str__(self):
+        return(f"Name: {self.name}\n"
+        f"Level: {self.level}\n"
+        f"Health: {self.health}\n"
+        f"Mana: {self.mana}\n")   
+
+
+kratos = GameCharacter("beta", 1, 10, 50)
+kratos1 = GameCharacter("heda", 2, 100, 20)
+kratos2 = GameCharacter("Reda", 3, 20, 30)
+print(kratos)    
+print(kratos1)    
+print(kratos2)    
