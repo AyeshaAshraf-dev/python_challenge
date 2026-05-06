@@ -1,0 +1,7 @@
+file = open('/home/ayesha-ashraf/Downloads/python_challenge-main/diarysave.txt','w')
+write = input('TODAYS DIARY!..  ')
+content = file.write(write)
+# content2 = file.read()
+print("Diary saved!")
+print(content)
+file.close()
