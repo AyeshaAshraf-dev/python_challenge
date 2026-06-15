@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": 1001,
+    "name": "Ali Khan",
+    "email": "ali.khan@example.com",
+    "isActive": true,
+    "hobbies": ["Coding", "Cricket", "Reading"]
+  },
+  "metadata": {
+    "version": "1.0",
+    "updated_at": "2026-06-15T21:44:00Z"
+  }
+}
