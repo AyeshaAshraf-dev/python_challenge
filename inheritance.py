@@ -8,6 +8,4 @@ class Dog(Animal):
 dog = Dog()
 dog.speak()
 dog.sound()
-        
-# Abstraction:  Hiding Complex implitation details
 
