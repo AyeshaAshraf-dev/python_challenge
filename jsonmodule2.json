@@ -1,0 +1,44 @@
+{
+  "states": [
+    { "name": "California", 
+      "abbreviation": "CA", 
+      "area_codes": [213] 
+    },
+    { "name": "Texas",
+     "abbreviation": "TX",
+      "area_codes": [214] 
+    },
+    { "name": "New York",
+     "abbreviation": "NY",
+      "area_codes": [212]
+     },
+    { "name": "Florida",
+     "abbreviation": "FL",
+      "area_codes": [305]
+     },
+    { "name": "Illinois",
+     "abbreviation": "IL",
+      "area_codes": [217]
+     },
+    { "name": "Pennsylvania",
+     "abbreviation": "PA",
+      "area_codes": [215]
+     },
+    { "name": "Ohio",
+     "abbreviation": "OH",
+      "area_codes": [216]
+     },
+    { "name": "Georgia",
+     "abbreviation": "GA",
+      "area_codes": [404]
+     },
+    { "name": "North Carolina",
+     "abbreviation": "NC",
+      "area_codes": [704] 
+    },
+    { "name": "Michigan", 
+    "abbreviation": "MI",
+     "area_codes": [248] 
+    }
+  ]
+}

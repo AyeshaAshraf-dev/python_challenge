@@ -1,0 +1,64 @@
+{
+  "states": [
+    {
+      "name": "California",
+      "area_codes": [
+        213
+      ]
+    },
+    {
+      "name": "Texas",
+      "area_codes": [
+        214
+      ]
+    },
+    {
+      "name": "New York",
+      "area_codes": [
+        212
+      ]
+    },
+    {
+      "name": "Florida",
+      "area_codes": [
+        305
+      ]
+    },
+    {
+      "name": "Illinois",
+      "area_codes": [
+        217
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "area_codes": [
+        215
+      ]
+    },
+    {
+      "name": "Ohio",
+      "area_codes": [
+        216
+      ]
+    },
+    {
+      "name": "Georgia",
+      "area_codes": [
+        404
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "area_codes": [
+        704
+      ]
+    },
+    {
+      "name": "Michigan",
+      "area_codes": [
+        248
+      ]
+    }
+  ]
+}
